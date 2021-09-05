@@ -1,2 +1,2 @@
 # Room-manager-backend
-Backend to a meeting room managing back-end
+Meeting room managing back-end in java.
